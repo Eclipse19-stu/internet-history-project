@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>History of Internet in South Africa</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js"></script>
+</head>
+
+<body>
+  <!-- Handlebars Template -->
+  <script id="page-template" type="text/x-handlebars-template">
+    <!-- Content Wrapper -->
+  <div class="content-wrapper">
+    <!-- Header -->
+    <header>
+      <nav>
+        <div class="logo">
+          <img src="{{logo.url}}" alt="{{logo.altText}}">
+        </div>
+        <ul>
+          {{#each navLinks}}
+          <li><a href="{{url}}">{{text}}</a></li>
+          {{/each}}
+        </ul>
+      </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+      <section class="hero">
+        <img src="{{heroImage.url}}" alt="{{heroImage.altText}}">
+        <h1>{{pageTitle}}</h1>
+      </section>
+
+      <div class="content-container"> <!-- New container div -->
+        <section class="main-content">
+          {{#each bodyContent}}
+          <div class="content-block {{#ifEven @index}}reverse-layout{{/ifEven}}">
+            <div class="image-container">
+              <img src="{{image}}" alt="{{altText}}">
+              {{#if caption}}
+                <div class="image-caption">{{caption}}</div>
+              {{/if}}
+            </div>
+            <div class="text-content">
+              {{#if title}}
+                <h2 class="content-title">{{title}}</h2>
+              {{/if}}
+              <p>{{text}}</p>
+            </div>
+          </div>
+          {{/each}}
+        </section>
+      </div>
+    </main>
+  </div>
+
+  <!-- Footer -->
+  <footer>
+    <div class="footer-links">
+      {{#each footerLinks}}
+      <a href="{{url}}">{{text}}</a>
+      {{/each}}
+    </div>
+    <p>&copy; 2025 SA Internet History. All rights reserved.</p>
+  </footer>
+  </script>
+
+  <!-- Content Container -->
+  <div id="content"></div>
+
+  <script>
+    Handlebars.registerHelper('ifEven', function(index, options) {
+      return (index % 2 === 1) ? options.fn(this) : options.inverse(this);
+    });
+
+    // Fetch JSON data
+    fetch('index.json')
+      .then(response => response.json())
+      .then(data => {
+        // Compile and render template
+        const template = Handlebars.compile(document.getElementById('page-template').innerHTML);
+        document.getElementById('content').innerHTML = template(data);
+      })
+      .catch(error => console.error('Error loading JSON:', error));
+  </script>
+</body>
+
+</html>
