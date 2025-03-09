@@ -1,0 +1,30 @@
+{
+    "logo": {
+      "url": "images/logo.png",
+      "altText": "SA Internet History Logo"
+    },
+    "navLinks": [
+      { "url": "index.html", "text": "Home" },
+      { "url": "isps.html", "text": "ISPs" },
+      { "url": "future.html", "text": "Future" }
+    ],
+    "pageTitle": "Bibliography",
+    "references": [
+      "Department of Telecommunications and Postal Services. (2013). <em>National Integrated ICT Policy White Paper</em>. South African Government.",
+      "Hoffman, S., & Vogt, A. (2017). Mobile Internet Adoption in South Africa: A Case Study of the Social and Economic Impact. <em>Journal of African Media Studies</em>, 9(2), 117-132.",
+      "Makgato, M., & Botha, P. (2012). The State of Broadband in South Africa. <em>African Journal of Information Systems</em>, 4(3), 60-75.",
+      "Marsden, R. (2011). The Internet and Academic Development in South Africa: A Retrospective. <em>South African Journal of Communication Studies</em>, 10(1), 50-70.",
+      "Mayer, A. (2020). Cybersecurity and Data Protection in South Africa. <em>African Policy Review</em>, 4(1), 12-24.",
+      "Mills, G., & O’Riordan, P. (2015). BRICS and Digital Infrastructure Development in South Africa. <em>Global Telecom and Technology Review</em>, 7(4), 18-22.",
+      "Mncube, A. (2021). 5G Deployment and Its Potential Impact on South Africa’s Digital Future. <em>South African Journal of ICT</em>, 6(1), 45-56.",
+      "Parker, C., & Fuchs, R. (2016). The Role of Smartphones in Expanding Internet Access in South Africa. <em>South African Journal of Mobile Technology</em>, 5(2), 98-110.",
+      "Sussman, L. (2018). <em>Mobile Connectivity in South Africa: Trends and Developments</em>. Sage Publications.",
+      "Viljoen, C., & Weitz, S. (2020). Fiber Broadband in South Africa: Challenges and Opportunities. <em>Journal of South African Telecommunications</em>, 12(1), 33-50.",
+      "Van Der Westhuizen, L. (2020). <em>Digital Entrepreneurship in South Africa: A Case Study Approach</em>. Palgrave Macmillan.",
+      "Free background photos from: <a href='https://pngtree.com/freebackground/revolutionizing-internet-business-with-communication-technology-a-global-network-perspective-3d-rendering_7232168.html?sol=downref&id=bef' target='_blank'>pngtree.com</a>",
+      "Telkom, <a href='https://creativecommons.org/licenses/by-sa/4.0' target='_blank'>CC BY-SA 4.0</a>, via Wikimedia Commons"
+    ],
+    "footerLinks": [
+      { "url": "references.html", "text": "References" }
+    ]
+  }

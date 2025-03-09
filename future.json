@@ -1,0 +1,55 @@
+{
+  "logo": {
+    "url": "images/logo.png",
+    "altText": "SA Internet History Logo"
+  },
+  "currentPage": "Future",
+  "navLinks": [
+    {
+      "url": "index.html",
+      "text": "Home"
+    },
+    {
+      "url": "isps.html",
+      "text": "ISPs"
+    },
+    {
+      "url": "future.html",
+      "text": "Future"
+    }
+  ],
+  "heroImage": {
+    "url": "images/future-hero.jpg",
+    "altText": "Future of Internet in South Africa"
+  },
+  "pageTitle": "Future of Internet in South Africa",
+  "futureTrends": [
+    {
+      "title": "The Significance of a Digital Economy in South Africa",
+      "description": "South Africa anticipates being fully digitized by the year 2030. The driving force for economic development in the country is technology and innovation. The country hopes to focus on creating a robust and inventive digital platform that can tackle persistent socio-economic issues whilst improving global competitiveness.  For the country to achieve this vision will require strong leadership, strategic investments and dedicated partnership across all sectors.  The National Development Plan (NDP) is the platform created to achieve sustainable development, integrate technology with education, business and governance to create a more equitable society.",
+      "image": "images/5g.jpg",
+      "altText": "5G tower installation in Johannesburg",
+      "caption": "Vodacom technicians deploying 5G infrastructure"
+    },
+    {
+      "title": "Expanding Digital Infrastructure",
+      "description": "GFor South Africa to achieve its vision for 2030, the country needs to invest in reliable infrastructure together with expanding broadband and high-speed connectivity to rural and underserved areas. The backbone of obtaining a fully functional digital economy is to ensure affordable and reliable internet access to all its users. This can be achieved by endorsing the implementation of 5G technology and decreasing the digital divide.  Invention in fiberoptic networks, data lines and renewable energy solutions is essential to obtain a fully-fledged telecommunications infrastructure.  The expansion of high-speed connectivity to both rural and underserved communities is vital as it can unravel opportunities for distant education, telemedicine, and e-commerce.",
+      "image": "images/undersea-cable.jpg",
+      "altText": "Undersea internet cable",
+      "caption": "The Google-backed Equiano cable coming ashore in Nigeria in April 2022. The system is now live, connecting South Africa to Europe via Africa's west coast."
+    },
+    {
+      "title": "Fostering Digital Skills Development",
+      "description": "To foster a digital skilled workforce, South Arica will need to exploit the capabilities of evolving technologies such as artificial intelligence (AI), blockchain and the Internet of Things (IoT) to achieve this goal. The driving force behind training users with the necessary skills is to ensure partnerships between government, private entities and stakeholders to launch innovations like the National Digital and Future Skills Strategy. To obtain a tech-driven economy, the introduction of subjects like coding and programming needs to be introduced at schools and tertiary institutions.",
+      "image": "images/rhodes-university.jpg",
+      "altText": "Rhodes University in Grahamstown",
+      "caption": "Rhodes University in Grahamstown where internet first started "
+    }
+  ],
+  "footerLinks": [
+    {
+      "url": "references.html",
+      "text": "References"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+    "logo": {
+      "url": "images/logo.png",
+      "altText": "SA Internet History Logo"
+    },
+    "currentPage": "ISPs",
+    "navLinks": [
+      { "url": "index.html", "text": "Home" },
+      { "url": "isps.html", "text": "ISPs" },
+      { "url": "future.html", "text": "Future" }
+    ],
+    "heroImage": {
+      "url": "images/isps-hero.jpeg",
+      "altText": "South African ISPs"
+    },
+    "pageTitle": "South African ISPs",
+    "isps": [
+      {
+        "name": "Telkom",
+        "yearFounded": 1991,
+        "logo": "images/Telkom.png",
+        "description": "South Africa’s main telecommunication provider Telkom was pivotal in establishing internet service in South Africa.  In the beginning, Telcom provided the dial-up connection, but in the early part of 2000, the organization brought about major changes in the upgrade of telecommunication services that saw the introduction of ADSL and broadband that were effective in improving internet speed and internet access.  Telkom also provided a framework that also included fiber optic network that increased the speed of the broadband services nationwide.  Even though Telkom faced competition from the private sector that also provided ISPs services to the nation, Telkom was one of the major players in the broadband services that provided a service to homes and businesses."
+      },
+      {
+        "name": "Internet Solutions",
+        "yearFounded": 1993,
+        "logo": "images/internet-soloutions.png",
+        "description": "Dimension Data is one of South Africa’s prominent organizations that owns Internet Solutions, focused on ISPs.  The business first provided a dial-up internet service to companies but eventually evolved into a key source of providing services that included but not limited to cloud services and data connectivity solutions for businesses and big corporations.  Internet Solutions is identified for leading in executing high performance based broadband fiber optic connectivity and solutions exclusive to meet the requirements of companies.  Internet Solutions offered an internet access service, private networks and Virtual Private Network (VPN) that made it an important contributor for South Africa’s business sector.."
+      },
+      {
+        "name": "Vodacom",
+        "yearFounded": 1994,
+        "logo": "images/Vodacom.png",
+        "description": "Vodacom was pivotal in contributing mobile internet access to South Africans in the era of the internet revolution.  Firstly, the focus of Vodacom was mobile voice services, but this service expanded to also include internet mobile services. In the beginning of 2000, Vodacom introduced various network services like 3G network that expanded to include 4G in 2010.  The 3G and 4G network service provided South Africans with mobile internet access in remote areas, in rural settlements and low internet access areas amongst others. The data packages and mobile hotspots were effective in creating affordability and accessibility to the poorer communities. Vodacom’s promise of expansion to 5G, in the future, was to increase internet speed and connectivity nationwide."
+      },
+      {
+        "name": "MTN",
+        "yearFounded": 1994,
+        "logo": "images/MTN.png",
+        "description": "MTN first entered the mobile market providing mobile voice services and eventually introduced mobile internet services.  MTN started with 2G technology thereafter including 3G and 4G network services.  The introduction of 3G and 4G network services provided users with faster mobile internet speeds.  MTN is vital in the prepaid mobile data market, introducing flexible data packages that offer a wide range to various user needs. The mobile broadband services offered but not limited to MiFi devices and mobile hot spots that contributed immensely to making accessibility more extensive."
+      },
+      {
+        "name": "Mweb",
+        "yearFounded": 1997,
+        "logo": "images/MWEB.png",
+        "description": "MWEB is one of South Africa’s well-known and oldest internet service providers (ISPs), initially only providing dial-up internet connectivity.  In early 2000, MWEB became one of the first companies to provide broadband and internet services to the domestic sector. Currently MWEB provides extensive internet services that includes ADSL, fiber and mobile broadband at a competitive price and is leading South African internet service provider (ISP) in the domestic sector.  MWEB later introduced fiber-to-home (FITH) services and is fundamental to providing innovative and affordable services to its customers."
+      },
+      {
+        "name": "MTN",
+        "yearFounded": 2001,
+        "logo": "images/CELL_C.png",
+        "description": "Cell C first focused on mobile voice services and thereafter extended to providing mobile internet services with the introduction of 3G.  Cell C offered competitive data rates that got the attention of its competitors, especially with its competitive mobile internet services pricing. The competitive pricing was effective in contributing to the affordability of data packages for South Africans internet users.  Cell C expanded its broadband services by investing in the LTE (4G) network and expanded mobile broadband services.  The competitive pricing placed Cell C as an alternative to the competition with its flexible data plans and customer affordability."
+      }
+    ],
+    "footerLinks": [
+      { "url": "references.html", "text": "References" }
+    ]
+  }
