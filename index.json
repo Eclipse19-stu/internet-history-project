@@ -15,7 +15,7 @@
   "pageTitle": "History of the Internet in South Africa",
   "bodyContent": [
     {
-      "image": "images/timeline1.jpg",
+      
       "altText": "Early internet infrastructure",
       "caption": "Rhodes University's early networking equipment (1988)",
       "title": "Internet Connectivity in South Africa: 1980s to 1990s",
@@ -25,15 +25,15 @@
       "image": "images/timeline2.jpg",
       "altText": "Telkom ADSL Router",
       "caption": "Telkom ADSL Router (2002)",
-      "title": "Internet Connectivity in South Africa: Mid 1990s to Early 2010s",
+  
       "text": "South Africa primarily accessed internet connectivity through dial-up connections. This entailed using a telephone via a modem to connect to the internet. However, this caused major problems with slow internet speeds and limited access.  By 1997, MWeb, introduce their services to the public by offering internet services at an affordable rate to all users. The commercial ADSL services offered by Telkom marked a momentous development in internet access and availability. Although South Africa made a breakthrough with internet access, this was still inadequate due to relatively high costs and slow connection speeds. To foster economic growth and development, the South African government introduced the national development policy to promote internet access mainly to businesses and universities. Thereafter service providers like Vodacom and MTN started gaining momentum, especially with the launch of 3G mobile networks and quicker internet services. Inter accessibility in South Africa showed substantial growth in the early 2010s. this was mainly due to the introduction of faster technologies such as fiber networks to-the-home (FTTH). The country still trailed behind other African countries in the implementation, due to a lack of infrastructure and the high cost involved. The South African Research Network (SANReN) was implemented by Government to provide access to internet services rural and underserved areas which was aimed to bridge the digital gap.                                                                               "
     },
     {
       "image": "images/timeline3.jpg",
       "altText": "Neotel fibre network",
       "caption": "Neotel fibre network throughout South Africa",
-      "title": "Internet Connectivity in South Africa: The 2020s",
-      "text": "Looking at the internet accessibility in South Africa in the early 2020s, reveals an increase in the internet connectivity to about 75% amongst all households. This was due mainly to an increase in mobile internet connectivity and a rise in fiber optic technology. Fiber broadband has gained momentum in South Africa due to faster internet speed and connectivity. Although 5G services in South Africa started gaining support in major cities, there are still issues with internet accessibility in rural areas due to a lack of infrastructure and affordability. Another issue experienced amongst low-income households and internet users in South Africa is the exorbitant cost of data. Most of the internet infrastructure is also outdated or insufficient to handle the growing demand for high-speed internet. Also, the frequent power outages, or load-shedding experienced monthly in South Africa has an impact on digital infrastructure which hamper business operations. "
+      "title": "Internet Connectivity in South Africa: The 2020s"
+      
     }
   ]
  
